@@ -8,7 +8,8 @@
     "moduleResolution": "nodeNext",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "strict": true
+    "strict": true,
+    "types": ["node"]
   },
   "ts-node": {
     "esm": true,
